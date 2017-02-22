@@ -87,6 +87,7 @@ $gs_admin_directory = "Gisoo_Admin_Super_80PORT";
                 <input type="text" class="form-control ltr" placeholder="Your License" name="license">
                 <span class="fa fa-asterisk form-control-feedback"></span>
                 <p class="persian">در صورت نداشتن لایسنس می توانید از سایت ما خرید کنید . <br> <a href="https://panel.aramin.co">aramin.co</a></p>
+                <p class="persian">در سیستم های رایگان گیسو این فیلد را پر نکنید.</p>
 
             </div>
             <div class="row">
