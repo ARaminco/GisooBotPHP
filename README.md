@@ -1,9 +1,10 @@
-# GisooBotPHP
+# GisooBotPHP - phptelegrambot
 
-Telegram Bot panel in persian.
+Persian Telegram php Bot and web panel
 FREE AND Open Source
+
 
 
 Progeraming by : Aliasghar Ramin -> www.aliasgharramin.ir
 
-Prpject by : www.aramin.co
+Project by : www.aramin.co
